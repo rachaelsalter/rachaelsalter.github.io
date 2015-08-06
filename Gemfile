@@ -15,3 +15,5 @@ gem "bootstrap-sass", "~> 3.3.3", :require => false
 gem 'bh', '~> 1.2'
 
 gem "jquery-middleman"
+
+gem 'font-awesome-middleman'

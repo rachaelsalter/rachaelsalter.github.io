@@ -112,3 +112,5 @@ activate :deploy do |deploy|
 end
 
 activate :bh
+
+set :fonts_dir,  "fonts-folder"
