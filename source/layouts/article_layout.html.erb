@@ -1,12 +1,28 @@
+<html>
+<head><link href="../stylesheets/about.css" rel="stylesheet" type="text/css" /></head>
 <% wrap_layout :layout do %>
-   <header>Rachael Salter</header>
-   <body class="no-bg-body">
-      <article>
-        <%= yield %>
-      </article>
-  </body>
+<body class="no-bg-body">
+<header><%= link_to 'Rachael Salter', '../index.html' %></header>
+<div class="container-fluid"> 
+  <div class="row">
+  	<div class="col-xs-9 navb">
+  		<%= link_to 'Blog Home', '../.html' %>
+  		<%= link_to 'About', '../about.html' %>
+        <%= link_to 'Resume', '../docs/rsalter.resume.pdf' %></div>
+    <div class="icons col-xs-3">
+      <a href="https://github.com/rachaelsalter"><i class="fa fa-github fa-2x"></i></a>
+      <a href="https://twitter.com/rachaelsalter"><i class="fa fa-twitter fa-2x"></i></a>
+      <a href="https://www.linkedin.com/in/rasalter"><i class="fa fa-linkedin fa-2x"></i></a>
+      <a href="mailto:rasalter@gmail.com"><i class="fa fa-envelope fa-2x"></i></a></div>
+ </div>
+ <div id="intro-spacer" style="height: 50px;"></div>
+ <%= current_article.title %>
+  <article class="blog-p">
+    <%= yield %>
+  </article>
+</body>
 <% end %>
-
+</html>
   
 
 

@@ -17,3 +17,5 @@ gem 'bh', '~> 1.2'
 gem "jquery-middleman"
 
 gem 'font-awesome-middleman'
+
+gem 'nokogiri'
