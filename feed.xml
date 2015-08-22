@@ -19,16 +19,16 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-08-22T17:08:00-04:00</updated>
+  <updated>2015-08-22T17:28:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>Why I Want to Be a Web Developer</title>
-    <link rel="alternate" href="http://blog.url.com/blog/2015-08-22-why-i-want-to-be-a-web-developer.html"/>
-    <id>http://blog.url.com/blog/2015-08-22-why-i-want-to-be-a-web-developer.html</id>
-    <published>2015-08-22T17:08:00-04:00</published>
-    <updated>2015-08-22T17:08:00-04:00</updated>
+    <title>Why I Want to Be a Developer</title>
+    <link rel="alternate" href="http://blog.url.com/blog/why-i-want-to-be-a-developer.html"/>
+    <id>http://blog.url.com/blog/why-i-want-to-be-a-developer.html</id>
+    <published>2015-08-22T17:28:00-04:00</published>
+    <updated>2015-08-22T17:28:07-04:00</updated>
     <author>
       <name>Article Author</name>
     </author>
