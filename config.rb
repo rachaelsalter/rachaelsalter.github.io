@@ -10,7 +10,7 @@ activate :blog do |blog|
 
   # Matcher for blog source files
   blog.sources = "{title}.html"
-  blog.permalink = "{title}.html" 
+  blog.permalink = "{year}/{month}/{day}/{title}.html" 
   # blog.taglink = "tags/{tag}.html"
   blog.layout = "layouts/article_layout"
   blog.summary_separator = /SPLIT_SUMMARY_BEFORE_THIS/
