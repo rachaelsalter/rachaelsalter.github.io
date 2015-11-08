@@ -21,6 +21,11 @@ body {
   background-color: #fff;
 }
 
+.color-bg {
+  background: url("#");
+  background-color: #FCFCFC;
+}
+
 h1 {
   color: #fff;
   font-family: 'Raleway', sans-serif;
@@ -36,7 +41,7 @@ h2 {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 25px;
   text-shadow: rgba(0,0,0,0.95) 1px 1px; 
 }
 
@@ -72,6 +77,15 @@ h6 {
   margin-top: 145px;
 }
 
+.title {
+  color: #000;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-weight: bold;
+  font-size: 45px;
+  padding-top: 50px;
+}
+
 header {
   background-color: #5199ce;
   color: #fff;
@@ -99,14 +113,44 @@ p {
   margin-right: 250px;
 }
 
+.row-margin {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 .about-p {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   padding-right: 200px;
 }
 
+.about-r {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  padding-right: 100px;
+  text-align: left;
+  margin-top: -150px;
+}
+
+.about-l {
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  padding-left: 75px;
+  text-align: left;
+  margin-top: -150px;
+}
+
 .about-img {
   margin-left: -15px;
+}
+
+.app-img-l {
+ 
+}
+
+.app-img-r {
+  margin-left: -5px;
+  
 }
 
 .blog-p {
@@ -185,6 +229,7 @@ ol {
   color: #F2F2F2;
   margin-right: 30px;
   margin-left: 15px;
+  margin-bottom: 10px;
   text-decoration: none;
 
   /* CSS Transition */
