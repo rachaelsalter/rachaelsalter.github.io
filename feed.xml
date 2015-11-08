@@ -19,7 +19,7 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-08-27T12:44:00-04:00</updated>
+  <updated>2015-08-27T09:44:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
@@ -27,8 +27,8 @@
     <title>My Path to Web Development Part 2</title>
     <link rel="alternate" href="http://blog.url.com/blog/2015/08/27/my-path-to-web-development-part-2.html"/>
     <id>http://blog.url.com/blog/2015/08/27/my-path-to-web-development-part-2.html</id>
-    <published>2015-08-27T12:44:00-04:00</published>
-    <updated>2015-09-02T01:18:50-04:00</updated>
+    <published>2015-08-27T09:44:00-07:00</published>
+    <updated>2015-09-01T22:18:50-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -46,8 +46,8 @@ I dabbled in Policy Studies during my second semester but had to finally admit t
     <title>My Path to Web Development Part 1</title>
     <link rel="alternate" href="http://blog.url.com/blog/2015/08/27/my-path-to-web-development-part-1.html"/>
     <id>http://blog.url.com/blog/2015/08/27/my-path-to-web-development-part-1.html</id>
-    <published>2015-08-27T12:39:00-04:00</published>
-    <updated>2015-09-02T01:06:46-04:00</updated>
+    <published>2015-08-27T09:39:00-07:00</published>
+    <updated>2015-09-01T22:06:46-07:00</updated>
     <author>
       <name>Article Author</name>
     </author>
