@@ -50,6 +50,18 @@ body {
   background-size: cover;
 }
 
+.color-bg-2{
+  background: url("#");
+  background-color: #F1EEEE;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 h1 {
   color: #fff;
   font-family: 'Raleway', sans-serif;
@@ -107,7 +119,7 @@ h6 {
   text-align: center;
   font-weight: bold;
   font-size: 45px;
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 header {
@@ -206,7 +218,7 @@ ol {
 
 .navb {
   text-align: right; 
-  padding-right: 200px; 
+  padding-right: 240px; 
 }
 
 .navb a {
