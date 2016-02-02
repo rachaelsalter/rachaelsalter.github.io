@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,600);
+@import "http://fonts.googleapis.com/css?family=Raleway:400,600";
 /* line 9, /Users/rachaelsalter/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/bootstrap-sass-3.3.5.1/assets/stylesheets/bootstrap/_normalize.scss */
 html {
   font-family: sans-serif;
@@ -9585,10 +9585,10 @@ button.close {
   content: ""; }
 
 @media only screen and (max-width: 767px) {
-  /* line 11, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+  /* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
   body {
     background: url("..images/sdbg_sm.jpg"); } }
-/* line 16, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 body {
   font-family: sans-serif;
   background: url("../images/sdbg.jpg");
@@ -9600,7 +9600,7 @@ body {
   -o-background-size: cover;
   background-size: cover; }
 
-/* line 29, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .no-bg-body {
   background: url("#");
   background-color: #FFF;
@@ -9612,7 +9612,7 @@ body {
   -o-background-size: cover;
   background-size: cover; }
 
-/* line 41, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .color-bg {
   background: url("#");
   background-color: #FCFCFC;
@@ -9624,7 +9624,7 @@ body {
   -o-background-size: cover;
   background-size: cover; }
 
-/* line 53, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .color-bg-2 {
   background: url("#");
   background-color: #F1EEEE;
@@ -9636,7 +9636,7 @@ body {
   -o-background-size: cover;
   background-size: cover; }
 
-/* line 65, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 h1 {
   color: #fff;
   font-family: 'Raleway', sans-serif;
@@ -9646,7 +9646,7 @@ h1 {
   letter-spacing: -1px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5); }
 
-/* line 75, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 h2 {
   color: #fff;
   font-family: 'Raleway', sans-serif;
@@ -9655,7 +9655,7 @@ h2 {
   font-size: 25px;
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px; }
 
-/* line 84, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 h3 {
   color: #fff;
   font-family: 'Raleway', sans-serif;
@@ -9663,7 +9663,7 @@ h3 {
   font-weight: bold;
   font-size: 25px; }
 
-/* line 92, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 h4 {
   color: #000;
   font-family: 'Raleway', sans-serif;
@@ -9671,7 +9671,7 @@ h4 {
   font-weight: bold;
   font-size: 25px; }
 
-/* line 100, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 h5 {
   color: #000;
   font-family: 'Raleway', sans-serif;
@@ -9679,7 +9679,7 @@ h5 {
   font-weight: bold;
   font-size: 15px; }
 
-/* line 108, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 h6 {
   color: #000;
   font-family: 'Raleway', sans-serif;
@@ -9687,7 +9687,7 @@ h6 {
   font-size: 35px;
   margin-top: 145px; }
 
-/* line 116, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .title {
   color: #000;
   font-family: 'Raleway', sans-serif;
@@ -9696,7 +9696,7 @@ h6 {
   font-size: 45px;
   padding-top: 100px; }
 
-/* line 125, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 header {
   background-color: #5199ce;
   color: #fff;
@@ -9707,92 +9707,92 @@ header {
   padding-left: 50px;
   padding-top: 10px; }
 
-/* line 136, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 header a {
   color: #fff;
   text-decoration: none; }
 
-/* line 141, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 header a:hover {
   color: #FFFFCC;
   text-decoration: none; }
 
-/* line 146, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 p {
   font-size: 18px;
   margin-left: 250px;
   margin-right: 250px; }
 
-/* line 152, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .row-margin {
   margin-top: 100px;
   margin-bottom: 100px; }
 
-/* line 157, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .about-p {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   padding-right: 200px; }
 
-/* line 163, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .about-r {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   padding-right: 100px;
   text-align: left; }
 
-/* line 171, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .about-l {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
   padding-left: 75px;
   text-align: left; }
 
-/* line 179, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .about-img {
   margin-left: -15px; }
 
-/* line 183, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .app-img-l {
   margin-left: -50px; }
 
-/* line 188, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .app-img-r {
   margin-left: -5px; }
 
-/* line 193, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .blog-p {
   font-size: 17px;
   font-family: 'Raleway', sans-serif;
   padding-left: 50px;
   padding-right: 50px; }
 
-/* line 200, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 aside {
   text-align: center; }
 
-/* line 204, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 ol {
   text-align: center;
   list-style-position: inside; }
 
-/* line 209, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .links a {
   color: #fff;
   text-decoration: none; }
 
-/* line 214, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .links a:hover {
   color: #000;
   text-decoration: none; }
 
-/* line 219, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .navb {
   text-align: right;
   padding-right: 240px;
   margin-top: 12px; }
 
-/* line 225, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .navb a {
   color: #fff;
   text-decoration: none;
@@ -9800,26 +9800,26 @@ ol {
   font-family: 'Raleway', sans-serif;
   padding-right: 15px; }
 
-/* line 233, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .navb a:hover {
   color: #000; }
 
-/* line 237, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .icons {
   padding-top: 11px;
   padding-bottom: 5px; }
 
-/* line 243, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .icons a {
   color: #000;
   padding-right: 15px;
   text-decoration: none; }
 
-/* line 249, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .icons a:hover {
   color: #000; }
 
-/* line 253, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .about-ghost-button {
   display: inline-block;
   width: 200px;
@@ -9830,7 +9830,7 @@ ol {
   outline: none;
   text-decoration: none; }
 
-/* line 264, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .btn {
   background: transparent;
   color: #F2F2F2;
@@ -9838,7 +9838,6 @@ ol {
   margin-left: 15px;
   margin-bottom: 10px;
   text-decoration: none;
-  /* CSS Transition */
   -webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
   -moz-transition: background .2s ease-in-out, border .2s ease-in-out;
   -ms-transition: background .2s ease-in-out, border .2s ease-in-out;
@@ -9848,34 +9847,33 @@ ol {
   -moz-border-radius: 0;
   border-radius: 0; }
 
-/* line 285, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .doc {
   font-size: 14px;
   margin: 0; }
 
-/* line 288, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
-.doc:before,
-.doc:after {
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+.doc:before, .doc:after {
   opacity: .2;
   padding: 6px;
   font-style: normal;
   position: relative;
   content: "•"; }
 
-/* line 295, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .doc a {
   color: rgba(0, 0, 0, 0.3); }
 
-/* line 297, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .doc a:hover {
   color: #666; }
 
-/* line 300, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
+/* line 1, /Users/rachaelsalter/Desktop/static/rasalterblog/source/stylesheets/all.css.scss */
 .welcome {
   -webkit-animation-name: welcome;
   -webkit-animation-duration: .9s; }
 
-@-webkit-keyframes welcome {
+@-webkit-keyframes "welcome" {
   from {
     -webkit-transform: scale(0);
     opacity: 0; }
